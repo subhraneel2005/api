@@ -3,5 +3,6 @@
 /node-server/.env
 /model/venv
 /model2/venv
+/model3/venv
 /python-service/venv
 /python-service/__pycache__
